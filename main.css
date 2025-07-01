@@ -315,6 +315,41 @@ body {
   box-shadow: 0 8px 32px rgba(183,110,121,0.12);
   transform: scale(1.04);
 }
+.portfolio-item img.industry-img {
+  object-position: left center;
+  height: 120px;
+  object-fit: cover;
+}
+.portfolio-item img.app-img {
+  object-position: left center;
+  height: 120px;
+  object-fit: cover;
+}
+.portfolio-item img.accessibility-img {
+  object-position: left center;
+  height: 120px;
+  object-fit: cover;
+}
+.portfolio-item img.onboard-img {
+  object-position: left center;
+  height: 120px;
+  object-fit: cover;
+}
+.portfolio-item img.deals-img {
+  object-position: left center;
+  height: 120px;
+  object-fit: cover;
+}
+.portfolio-item img.ecommerce-img {
+  object-position: left center;
+  height: 120px;
+  object-fit: cover;
+}
+.portfolio-item img.sphere-img {
+  object-position: left center;
+  height: 120px;
+  object-fit: cover;
+}
 .portfolio-item h2 {
   font-size: 1.3rem;
   color: #b76e79;
